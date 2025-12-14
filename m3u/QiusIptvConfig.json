@@ -1,0 +1,54 @@
+//此为影视仓多仓接口配置文件，由Qiu改写；
+
+{
+    "urls": [
+        {
+            "url": "http://47.96.82.41:8/api.json",
+            "name": "资源线路"
+        },
+        {
+            "url": "http://www.饭太硬.com/tv",
+            "name": "饭太硬"
+        },
+        {
+            "url": "https://raw.githubusercontent.com/fengfenga-hub/IPTV/main/m3u/crmix.json",
+            "name": "Qiu的线路"
+        },
+       {
+            "url": "http://121.40.174.45:1777/2509/爱吃鬼.json",
+            "name": "定制4k"
+        },
+        {
+            "url": "http://ok321.top/tv",
+            "name": "OK接口"
+        },
+        {
+            "url": "http://47.96.82.41:3/",
+            "name": "小哥哥"
+        },
+        {
+            "url": "http://肥猫.com",
+            "name": "肥猫线路"
+        },
+        {
+            "url": "http://tvbox.王二小放牛娃.top",
+            "name": "王小二"
+        },
+        {
+            "url": "http://47.96.82.41:5188/",
+            "name": "资源线路"
+        },
+        {
+            "url": "https://gitee.com/SciQ/SQ/raw/master/api.json",
+            "name": "小程序"
+        },
+        {
+            "url": "http://tv.laohu.cool/tvbox.json",
+            "name": "老虎接口"
+        },
+        {
+            "url": "http://影视仓接口.top",
+            "name": "快乐接口"
+        }
+    ]
+}
