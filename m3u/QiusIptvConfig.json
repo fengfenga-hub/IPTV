@@ -1,5 +1,5 @@
-//此多仓接口管理系统，是【软件小哥哥】为粉丝提供便利而制作接口管理系统。
-//微信小程序搜【软件小哥哥】 获取接口软件  影视仓接口管理系统【https://api.starlink.fan】
+//此为影视仓多仓接口配置文件，由Qiu改写；
+
 {
     "urls": [
         {
@@ -12,7 +12,7 @@
         },
         {
             "url": "https://raw.githubusercontent.com/fengfenga-hub/IPTV/main/m3u/crmix.json",
-            "name": "Qiu的线路仓库"
+            "name": "Qiu的线路"
         },
         {
             "url": "http://121.40.174.45:1777/2509/爱吃鬼.json",
