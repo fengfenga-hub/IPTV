@@ -567,8 +567,8 @@ http://31.148.48.15/O-la-la/index.m3u8
 https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/playlist.m3u8
 #EXTINF:-1 tvg-id="Miami TV" tvg-name="Miami TV" group-title="成人频道",Miami TV
 https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/playlist.m3u8
-#EXTINF:-1 tvg-id="成人频道" tvg-name="成人频道" group-title="成人频道",成人频道
-https://xc.成人频道iptv.net
+#EXTINF:-1 tvg-id="Mycamtv" tvg-name="Mycamtv" group-title="成人频道",Mycamtv
+https://xc.adultiptv.net
 #EXTINF:-1 tvg-id="Anal" tvg-name="Anal" group-title="成人频道",Anal
 https://live.redtraffic.xyz/anal.m3u8
 #EXTINF:-1 tvg-id="Asian" tvg-name="Asian" group-title="成人频道",Asian
