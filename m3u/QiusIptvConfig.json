@@ -14,7 +14,11 @@
             "url": "https://raw.githubusercontent.com/fengfenga-hub/IPTV/main/m3u/crmix.json",
             "name": "Qiu的线路"
         },
-        {
+         {
+            "url": "https://github.com/lemonguo121/BoxRes/raw/refs/heads/main/Myuse/oldcatcr.json",
+            "name": "testtttt"
+        },
+       {
             "url": "http://121.40.174.45:1777/2509/爱吃鬼.json",
             "name": "定制4k"
         },
