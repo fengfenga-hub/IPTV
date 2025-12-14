@@ -58,12 +58,11 @@
     {
       "key": "csp_douban",
       "name": "🌕┃豆瓣┃推荐",
-      "type": 3,
-      "api": "csp_DouDou",
-      "jar": "./lib/fty.jar",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0
+      "type": 1,
+      "api": "https://caiji.dbzy5.com/api.php/provide/vod/at/json/",
+      "playUrl": "",
+      "searchable": 1,
+      "quickSearch": 1
     },
     {
       "key": "量子资源",
